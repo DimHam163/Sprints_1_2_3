@@ -65,4 +65,5 @@ Destroying test database for alias 'default'...
 
 ![image](https://github.com/DimHam163/Sprints/assets/90146637/6773ec2c-211e-4b2e-8524-5bfe28e7c511)
 
+p.s. During the work on sprints 2-3, due to problems (system error) during testing, the application was renamed from Pass to Pereval.
  
