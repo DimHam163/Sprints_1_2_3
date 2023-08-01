@@ -33,7 +33,7 @@ PATCH /submitdata/{id} - Позволяет изменить значения а
 state: '1' for successful update and '0' for unsuccessful update.
  message: explains why an update has failed.
 
-GET /submitdata/?user__email="<email>" - Возвращает список всех объектов, которые были отправлены в систему пользователем с указанным адресом электронной почты.
+GET /submitdata/?user__email=< email > - Возвращает список всех объектов, которые были отправлены в систему пользователем с указанным адресом электронной почты.
 
 ****
 # Спринт №2:
