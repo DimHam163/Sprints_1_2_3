@@ -44,7 +44,7 @@ PATCH /submitData/<id>
  state: '1' for successful update and '0' for unsuccessful update.
  message: explains why an update has failed.
  
- GET /submitData/?user__email=< email >
+ GET /submitData/?user__email=<email>
  
 ****
 # Спринт №3:
