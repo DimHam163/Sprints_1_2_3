@@ -58,9 +58,6 @@ PATCH /submitData/<id>
 _______________________________________________________________________
 # Тесты
 
-Ran 11 tests in 0.130s
-
-OK
 
 ![image](https://github.com/DimHam163/Sprints_1_2_3/assets/90146637/80323d7b-93a0-4324-96e8-58ffdcfb2819)
 
