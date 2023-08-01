@@ -31,6 +31,7 @@ GET /submitdata/{id} - Извлекает данные для определен
 PATCH /submitdata/{id} - Позволяет изменить значения атрибутов горного перевала:
 
 state: '1' for successful update and '0' for unsuccessful update.
+
  message: explains why an update has failed.
 
 GET /submitdata/?user__email=< email > - Возвращает список всех объектов, которые были отправлены в систему пользователем с указанным адресом электронной почты.
